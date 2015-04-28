@@ -1,5 +1,5 @@
-# TimeSheetGen
-python script that will generate the output that can then be ran with the firefox plugin iMacros that will automagically fill out an oncorps timesheet.
-#ps: I have no idea what im doing half the time I just make it work! :) 
-
-#pss: bare with me as i learn git!
+To install- pull this repository and move the timesheetgen.py file into the same directory as your imacro file. 
+open the timesheetgen.py file and change the first few lines to reflect the date for the timesheet. 
+run the .py file. 
+open internet browser, navigate to the timesheet, click play from imacros. 
+It should automatically complete the timesheet. 
